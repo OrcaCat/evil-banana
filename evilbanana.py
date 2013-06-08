@@ -112,3 +112,4 @@ while True:
         i.renderOnScreen(DISPLAYSURF)
     pygame.display.update()
     fpsClock.tick(FPS)
+pygame.quit()
